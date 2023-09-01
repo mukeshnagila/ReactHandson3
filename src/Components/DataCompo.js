@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class DataCompo extends Component{
     constructor(props){
         super(props)
-        // console.log(this.props.value)
+        console.log(this.props.value)
     }
     render(){
         return(
